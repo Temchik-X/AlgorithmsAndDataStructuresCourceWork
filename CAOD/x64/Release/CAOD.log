@@ -1,0 +1,8 @@
+﻿  AVLTree.cpp
+C:\Users\artem\YandexDisk\KursCAOD\CAOD\CAOD\AVLTree.cpp(129,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\artem\YandexDisk\KursCAOD\CAOD\CAOD\AVLTree.cpp(130,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  hash_table.h
+x64\Release\hash_table.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+main.obj : error LNK2001: неразрешенный внешний символ "class std::vector<struct Elem *,class std::allocator<struct Elem *> > __cdecl AddElem(class std::vector<struct Elem *,class std::allocator<struct Elem *> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?AddElem@@YA?AV?$vector@PEAUElem@@V?$allocator@PEAUElem@@@std@@@std@@V12@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@111@Z).
+main.obj : error LNK2001: неразрешенный внешний символ "bool __cdecl isUniqPassword(class std::vector<struct Elem *,class std::allocator<struct Elem *> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?isUniqPassword@@YA_NV?$vector@PEAUElem@@V?$allocator@PEAUElem@@@std@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@Z).
+C:\Users\artem\YandexDisk\KursCAOD\CAOD\x64\Release\CAOD.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
